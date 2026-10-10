@@ -9,5 +9,5 @@ I am a dev focused on building skills in script automation, network security and
 
 ### Featured Projects
 
-*  **[Linux Network Automation scripts for Admins] (https://github.com)**
+*  **[Linux Network Automation scripts for Admins] (https://github.com/i-0-Dev/Linux-Network-Automation))**
   bash scripts created for collecting essential network data for sys admins and outputs them to a text file to read.   
