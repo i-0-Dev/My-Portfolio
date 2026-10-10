@@ -6,3 +6,8 @@ I am a dev focused on building skills in script automation, network security and
 *  **Operating Systems:** Ubuntu Gui, Ubuntu Server, CentOs, Kali Linux
 *  **Scripting & Tools:** Bash, Python, Core Utilities(`sed`, `awk`, `grep`)
 *  **System Administration:** SSH Configuration, Package management (`dnf`, `apt`, `yum`), network configuration, service management (`systemctl`)
+
+### Featured Projects
+
+*  **[Linux Network Automation scripts for Admins] (https://github.com)**
+  bash scripts created for collecting essential network data for sys admins and outputs them to a text file to read.   
